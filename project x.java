@@ -1,4 +1,4 @@
-// JavaScript source code
+// Java source code
 public class Main { 
 
     public static int strCount(String str, char target) {
